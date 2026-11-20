@@ -2156,7 +2156,7 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
-Day147:在浏览器执行以下代码，写出打印结果
+### Day147:在浏览器执行以下代码，写出打印结果
 
 ```js
 console.log("start");
@@ -2185,6 +2185,8 @@ new Promise(function (resolve, reject) {
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/961)
+
+<br />
 
 ### Day148:请实现一个 cacheRequest 方法，保证发出多次同一个 ajax 请求时都能拿到数据，而实际上只发出一次请求
 
@@ -2647,7 +2649,7 @@ function lottery(whiteList, participant) {
 
 <br />
 
-### Day189 写出代码正确执行结果，并解释原因
+### Day189:写出代码正确执行结果，并解释原因
 
 ```js
 function test() {
@@ -2977,7 +2979,7 @@ console.log(counter);
 
 <br />
 
-### Day215 下面代码的输出是什么？为什么？
+### Day215:下面代码的输出是什么？为什么？
 
 ```js
 const person = { name: "yd" };
@@ -3019,6 +3021,8 @@ multiply(value, number);
 multiply(value, number);
 ```
 
+分类：JavaScript
+
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1036)
 
 <br />
@@ -3038,6 +3042,7 @@ function foo() {
 }
 ```
 
+分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1037)
 
@@ -3661,6 +3666,8 @@ search("b..") -> true
 
 公司：头条
 
+分类：JavaScript
+
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1095)
 
 <br />
@@ -4016,7 +4023,7 @@ foo();
 
 <br />
 
-### Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？
+### Day300:Get 请求传参长度存在限制，是 HTTP 协议限制的吗？
 
 分类：网络&安全
 
